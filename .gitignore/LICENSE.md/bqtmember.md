@@ -10,4 +10,4 @@
 
 - [Đức Trần](https://www.facebook.com/boss.eleven.98)
 - [Yến Sam Sam](https://www.facebook.com/camyen.nguyen.7)
-- [Thành Tú](https://www.facebook.com/dothanh.tu.7)ư
+- [Thành Tú](https://www.facebook.com/dothanh.tu.7)
