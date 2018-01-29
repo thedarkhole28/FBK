@@ -22,6 +22,10 @@ Các bài viết có dạng như sau sẽ KHÔNG được phép:
 - KHÔNG đăng bài viết liên quan đến chủ đề chính trị, tôn giáo.
 - Bài viết mang tính chất PR cho nhóm, page để câu kéo thành viên.
 
+### VỀ HASHTAG
+
+Vui lòng xem [danh sách #hashtag sử dụng trong nhóm](hashtags.md) để áp dụng cho hợp lý với nội dung bài viết của bạn.
+
 ### VỀ BÌNH LUẬN
 
 - KHÔNG văng tục, bình luận vô văn hóa, chửi thề.
