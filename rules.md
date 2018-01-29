@@ -37,6 +37,6 @@ Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị nh�
 
 ---
 
-Nếu thấy bài viết hoặc bình luận vi phạm nội quy, hãy dùng chức năng "Báo cáo" hoặc tag [thành viên BQT](FBK/.gitignore/LICENSE.md/bqtmember.md) vào bài viết đó.
+Nếu thấy bài viết hoặc bình luận vi phạm nội quy, hãy dùng chức năng "Báo cáo" hoặc tag [thành viên BQT](bqtmember.md) vào bài viết đó.
 
 FPTU Beat King Club.
