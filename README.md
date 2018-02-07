@@ -10,5 +10,3 @@ Những điều bạn cần biết nếu muốn tham gia [FBK](https://www.faceb
 ## Động lầy FBK
 
 - Group dành cho tất cả thành viên và ctv đang hoạt động trong clb
-- [Link](https://www.facebook.com/groups/510203165983287)
-- [Luật lệ](rules.md)
